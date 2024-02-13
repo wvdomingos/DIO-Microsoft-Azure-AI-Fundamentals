@@ -56,7 +56,7 @@ Note que a instrução manda que selecionemos o recurso AI SERVICE configurado, 
 
 Siga todas as configurações terminando no passo 17 . Select the indexer name to see more details.
 
-## Passo 7: Cnsultando o índice:      
+## Passo 7: Consultando o índice:      
 
 Feitas todas as configurações vamos voltar ao AZURE AI SERVICES, entrar no nosso serviço e através do SEARCH EXPLORER testar se tudo foi indexado e se a consulta esta funcionando, utilizando os comandos:
 
